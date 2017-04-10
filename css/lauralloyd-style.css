@@ -1,0 +1,25 @@
+.laurasadvice header {
+	font-family: 'Spirax', cursive;
+	color: black;
+	text-align: center;
+	border: solid 2px lightblue;
+}
+
+.laurasadvice h4 {
+	font-family: 'Spirax', cursive;
+	text-align: center;
+	color: darkblue;
+	font-size: 2em;
+}
+
+.laurasadvice p {
+	font-size: 1.5em;
+	color: lightblue;
+	font-family: 'Spirax', cursive;
+}
+
+.footer {
+	color: lightblue;
+	font-family: 'Spirax', cursive;
+	font-size: 1em;
+}
